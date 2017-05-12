@@ -1,4 +1,4 @@
-package com.cogeco.epon;
+package re.vianneyfaiv.log4j2;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
